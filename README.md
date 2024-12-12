@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 👨‍💻 I'm a student at Zhejiang University, majoring in Logistics Engineering and Management. My passion lies in using technology to enhance logistics efficiency.
+- 👨‍💻 I'm a student at Zhejiang Open University, majoring in Logistics Engineering and Management. My passion lies in using technology to enhance logistics efficiency.
 - 📦 I have a strong interest in logistics information technology and supply chain optimization. Dreaming of one day revolutionizing the way the industry operates.
 - 🐍 Recently, I've been diving into Python programming and learning how data analysis can optimize inventory management and transportation routes.
 - 🚴‍♂️ In my free time, I love cycling, feeling the wind rush past as it fuels my inspiration and motivation.
@@ -35,10 +35,9 @@
 
 ## Let's Connect 🌐
 
-- **Email**: wangguowei@gwg.com
+- **Email**: wangguowei@wgw.com
 - **LinkedIn**: [Guowei Wang](https://www.linkedin.com/in/wangguowei-zju/)
 - **Personal Blog**: [My Blog](https://wangguowei.dev)
 
----
 
 Thank you for taking the time to get to know me! If you're interested in logistics technology and data analysis, or just want to chat about cycling and music, feel free to reach out. Let's share stories, exchange ideas, and grow together!
